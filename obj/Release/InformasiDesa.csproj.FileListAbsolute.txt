@@ -1,0 +1,17 @@
+D:\KULIAH\semstr3\pemrograman lanjut\InformasiDesa\bin\Release\InformasiDesa.exe.config
+D:\KULIAH\semstr3\pemrograman lanjut\InformasiDesa\bin\Release\InformasiDesa.exe
+D:\KULIAH\semstr3\pemrograman lanjut\InformasiDesa\bin\Release\InformasiDesa.pdb
+D:\KULIAH\semstr3\pemrograman lanjut\InformasiDesa\obj\Release\InformasiDesa.csprojAssemblyReference.cache
+D:\KULIAH\semstr3\pemrograman lanjut\InformasiDesa\obj\Release\InformasiDesa.Form1.resources
+D:\KULIAH\semstr3\pemrograman lanjut\InformasiDesa\obj\Release\InformasiDesa.FormAdmin.resources
+D:\KULIAH\semstr3\pemrograman lanjut\InformasiDesa\obj\Release\InformasiDesa.Properties.Resources.resources
+D:\KULIAH\semstr3\pemrograman lanjut\InformasiDesa\obj\Release\InformasiDesa.UserControl1.resources
+D:\KULIAH\semstr3\pemrograman lanjut\InformasiDesa\obj\Release\InformasiDesa.UserControl2.resources
+D:\KULIAH\semstr3\pemrograman lanjut\InformasiDesa\obj\Release\InformasiDesa.UserControl3.resources
+D:\KULIAH\semstr3\pemrograman lanjut\InformasiDesa\obj\Release\InformasiDesa.UserControl4.resources
+D:\KULIAH\semstr3\pemrograman lanjut\InformasiDesa\obj\Release\InformasiDesa.UserControl4_DA.resources
+D:\KULIAH\semstr3\pemrograman lanjut\InformasiDesa\obj\Release\InformasiDesa.UserControl5.resources
+D:\KULIAH\semstr3\pemrograman lanjut\InformasiDesa\obj\Release\InformasiDesa.csproj.GenerateResource.cache
+D:\KULIAH\semstr3\pemrograman lanjut\InformasiDesa\obj\Release\InformasiDesa.csproj.CoreCompileInputs.cache
+D:\KULIAH\semstr3\pemrograman lanjut\InformasiDesa\obj\Release\InformasiDesa.exe
+D:\KULIAH\semstr3\pemrograman lanjut\InformasiDesa\obj\Release\InformasiDesa.pdb
