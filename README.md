@@ -42,25 +42,25 @@ TAMPILAN UI APLIKASI
 
 
 
--User Control 3 (Jadwal Ronda)
+-User control 3 (jadwal ronda)
 
 ![image](https://user-images.githubusercontent.com/66340211/173603508-d671e54c-e736-458b-acff-fb10762d2eff.png)
 
 
 
--User Control 4 (Admin)
+-User control 4 (admin)
 
 ![image](https://user-images.githubusercontent.com/66340211/173600572-075c7c1e-6cc5-489b-9d57-6472b05bf34f.png)
 
 
 
--User Control 4 ad (Admin Dashboard)
+-User control 4ad (admin dashboard)
 
 ![image](https://user-images.githubusercontent.com/66340211/173604213-0d0fd0e7-9294-4469-9cab-83bcf4e53e16.png)
 
 
 
--User Control 5 (Tentang Aplikasi)
+-User control 5 (tentang aplikasi)
 
 ![image](https://user-images.githubusercontent.com/66340211/173600625-b6d7917d-86e8-4e5d-9e9e-653fe3fb564f.png)
 
