@@ -1,5 +1,3 @@
-FINAL PROJECT UAS PEMROGRAMAN LANJUT
-
 APLIKASI SISTEM INFORMASI MASYARAKAT DUSUN SUKAMAJU (SMADESK) - BERBASIS DESKTOP
 
 Informasi tentang kegiatan yang ada di dusun merupakan hal yang penting untuk disampaikan kepada masyarakat.
