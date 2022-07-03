@@ -52,7 +52,7 @@ TAMPILAN UI APLIKASI
 
 
 
--User control 4ad (admin dashboard)
+-User control 4da (dashboard admin)
 
 ![image](https://user-images.githubusercontent.com/66340211/173604213-0d0fd0e7-9294-4469-9cab-83bcf4e53e16.png)
 
