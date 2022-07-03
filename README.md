@@ -12,7 +12,7 @@ masyarakat dapat membuka aplikasi ini untuk update informasi terbaru mengenai ke
 Aplikasi CRUD ini dibuat menggunakan Windows Form App (.Net Framework) dengan bahasa pemrograman c#.
 Dimana nanti user dapat mencari data yang diinginkan (read). Kemudian untuk admin dapat menambah (create), 
 memperbarui (update), dan menghapus (delete) data. Aplikasi ini kami beri nama SMADESK, singkatan dari sistem
-informasi masyarakat dusun sukamaju berbasis desktop. Dan untuk databasenya kami menggunakan Microsoft SQL Server 2014.
+informasi masyarakat dusun sukamaju berbasis desktop. Dan untuk DBMS-nya kami menggunakan Microsoft SQL Server 2014.
 
 TAMPILAN UI APLIKASI
 
