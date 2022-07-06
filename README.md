@@ -1,8 +1,8 @@
 APLIKASI SISTEM INFORMASI MASYARAKAT DUSUN SUKAMAJU (SMADESK) - BERBASIS DESKTOP
 
-Informasi tentang kegiatan di dusun sangat penting untuk disampaikan kepada warga. Bagi warga, informasi tentang kegiatan di dusun biasanya diperoleh dari undangan atau pengumuman dari masjid. Namun, warga masih tidak mendapatkan informasi ini dalam kondisi tertentu karena beberapa alasan.
+Informasi tentang kegiatan di dusun sangat penting untuk disampaikan kepada warga. Bagi warga, informasi tentang kegiatan di dusun biasanya diperoleh dari undangan atau pengumuman dari masjid. Namun, terkadang warga masih tidak bisa mendapatkan informasi tersebut dalam kondisi tertentu.
 
-Permasalahan di atas dapat diselesaikan dengan aplikasi yang berisi profil dusun yang memuat daftar kegiatan dusun dan jadwal ronda. Sehingga ketika warga atau masyarakat belum mendapatkan informasi kegiatan dari undangan atau pengumuman di masjid, masyarakat dapat membuka aplikasi ini untuk mengupdate informasi terbaru tentang kegiatan di dusunnya.
+Permasalahan ini dapat diselesaikan dengan aplikasi yang berisi profil dusun yang memuat daftar kegiatan dusun dan jadwal ronda. Sehingga ketika warga atau masyarakat belum mendapatkan informasi kegiatan dari undangan atau pengumuman di masjid, warga dapat membuka aplikasi ini untuk mengupdate informasi terbaru mengenai kegiatan yang ada di dusunnya.
 
 Aplikasi CRUD ini dibuat menggunakan Windows Form App (.Net Framework) dengan bahasa pemrograman c#.
 Dimana nanti user dapat mencari data yang diinginkan (read). Kemudian untuk admin dapat menambah (create), 
